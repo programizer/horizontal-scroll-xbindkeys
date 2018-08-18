@@ -1,6 +1,6 @@
-# xkeybindings-horizontal-scroll
+# Horizontal Scrolling using xbindkeys
   
-* #### xkeybindings configuration.   
+* #### xbindkeys configuration.   
    
 * #### Scroll horizontally with mouse wheel that has left and right buttons.   
    
